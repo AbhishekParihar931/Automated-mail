@@ -1,0 +1,34 @@
+[
+    {
+        "timestamp": "2025-04-17 11:04:59",
+        "sender": "sc22cs301003@gmail.com",
+        "recipients": "kabirydv76@gmail.com",
+        "subject": "for meeting",
+        "status": "FAILED",
+        "error": "Authentication error"
+    },
+    {
+        "timestamp": "2025-04-17 11:05:31",
+        "sender": "sc22cs301003@medicaps.ac.in",
+        "recipients": "kabirydv76@gmail.com",
+        "subject": "for meeting",
+        "status": "SUCCESS",
+        "error": null
+    },
+    {
+        "timestamp": "2025-04-17 16:27:14",
+        "sender": "sc22cs301003@gmail.com",
+        "recipients": "chouhanbanti224@gmail.com",
+        "subject": "For Regarding Sql Session",
+        "status": "FAILED",
+        "error": "Authentication error"
+    },
+    {
+        "timestamp": "2025-04-17 16:28:12",
+        "sender": "sc22cs301003@medicaps.ac.in",
+        "recipients": "chouhanbanti224@gmail.com",
+        "subject": "For Regarding Sql Session",
+        "status": "SUCCESS",
+        "error": null
+    }
+]
